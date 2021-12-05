@@ -1,0 +1,8 @@
+# Idris
+/build
+
+# Nix
+/result
+
+# AoC-idr
+/input

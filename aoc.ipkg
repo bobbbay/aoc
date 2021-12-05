@@ -1,0 +1,13 @@
+package aoc
+
+modules = Main
+        , Solutions.Day1
+
+main = Main
+
+depends = contrib
+        , aoc-idr
+
+executable = aoc
+
+sourcedir = "src"
